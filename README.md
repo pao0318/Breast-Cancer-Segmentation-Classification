@@ -1,5 +1,6 @@
 # Breast-Cancer-Segmentation-Classification
 ### Installation
+### You should have a gpu in your system in order to run inference
 ---
 
 1. Clone the repository
@@ -10,7 +11,7 @@
     + ` python -m create virtualenv testenv `
     + ` testenv\Scripts\activate.ps1 `
     + ` pip install -r requirements.txt `
-    + ` python app.py `
+    + ` python main.py `
      
 
 ### Tech-Stacks Used
