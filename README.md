@@ -6,16 +6,15 @@
 ---
 
 1. Clone the repository
-2. The directory should look like
-
-    . templates
-    . main.py
-    . run.py
-    . requirements
-    . models
-    . images
-    . uploads
-    . env
+2. The directory should look like:
+    + templates
+    + main.py
+    + run.py
+    + requirements
+    + models
+    + images
+    + uploads
+    + env
 
 11. Open with code editor
 12. You must have python and pip installed in your system
